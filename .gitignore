@@ -2,4 +2,4 @@
 
 # local env files
 .env*.local
-.env
+.config.env
